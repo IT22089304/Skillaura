@@ -1,6 +1,6 @@
-🌟 SkillAura
+🌟 Skillora
 
-SkillAura is a smart learning and collaboration platform built to help individuals grow their skills, track learning progress, and engage with a supportive community. With personalized learning plans, badge rewards, and a modern UI, SkillAura empowers users to learn, connect, and succeed.
+Skillora is a smart learning and collaboration platform built to help individuals grow their skills, track learning progress, and engage with a supportive community. With personalized learning plans, badge rewards, and a modern UI, SkillAura empowers users to learn, connect, and succeed.
 
 ---
 
@@ -45,7 +45,7 @@ SkillAura is a smart learning and collaboration platform built to help individua
 📦 How to Run Locally
 
 1. Clone the repository:  
-   git clone https://github.com/IT22089304/Skillaura.git  
+   git clone https://github.com/IT22089304/Skillora.git  
    cd SkillAura
 
 2. Install frontend dependencies:  
@@ -82,4 +82,4 @@ SkillAura is a smart learning and collaboration platform built to help individua
 
 ---
 
-💡 Tip: SkillAura is designed to be modular. You can extend it into a full LMS (Learning Management System), mentorship platform, or even gamified education app!
+💡 Tip: Skillora is designed to be modular. You can extend it into a full LMS (Learning Management System), mentorship platform, or even gamified education app!
