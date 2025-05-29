@@ -1,6 +1,6 @@
 🌟 Skillora
 
-Skillora is a smart learning and collaboration platform built to help individuals grow their skills, track learning progress, and engage with a supportive community. With personalized learning plans, badge rewards, and a modern UI, SkillAura empowers users to learn, connect, and succeed.
+Skillora is a smart learning and collaboration platform built to help individuals grow their skills, track learning progress, and engage with a supportive community. With personalized learning plans, badge rewards, and a modern UI, Skillora empowers users to learn, connect, and succeed.
 
 ---
 
